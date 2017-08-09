@@ -1,6 +1,7 @@
 # WrongTransitionCoordinator_Bug
 A sample project for an iOS 11 UIKit bug
 
+Important: this bug only occurs on iOS 11 devices and when the project is build with Xcode 8
 
 Reproduction:
 1. Push the button
